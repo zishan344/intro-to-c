@@ -8,7 +8,7 @@ int main() {
     scanf("%d %lld %f %c", &a,&b,&c,&d);
     printf("%d\n", a);
     printf("%lld\n", b);
-    printf("%.6f\n", c);
+    printf("%.2f\n", c);
     printf("%c\n", d);
     return 0;
 }

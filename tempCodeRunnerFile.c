@@ -1,1 +1,1 @@
-b
+Programming is fun and challenging.
